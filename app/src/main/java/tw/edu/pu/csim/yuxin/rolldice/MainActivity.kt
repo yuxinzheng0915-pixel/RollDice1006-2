@@ -47,7 +47,7 @@ fun Dice(modifier: Modifier = Modifier) {
 
         verticalArrangement = Arrangement.Center
     ) {
-        Text("請點擊圖片隨機丟骰子\n作者：鄭宇芯")
+        Text("請點擊圖片隨機丟骰子\n作者：鄭宇芯yuxin")
 
         Spacer(modifier = Modifier.height(20.dp))
 
